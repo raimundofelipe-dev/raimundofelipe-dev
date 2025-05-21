@@ -6,7 +6,7 @@
 <div  align="center" >
   -  💻 Desenvolvedor Web
   <br>
-- 🌱 Atualmente estou trabalhando com PHP, Js  ...
+-  Atualmente estou trabalhando com PHP, Js  ...
 </div>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
