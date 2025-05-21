@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=react,php,bootstrap,html,css,vscode,github,git" />
 </div>
 
-<h2 align="center" >⚡Stats⚡</h2>
+<h2 align="center" >⚡**Desenvolvedor Back-end**⚡</h2>
 <br>
 <div align="center" >
   <picture>
