@@ -116,4 +116,5 @@ Me chamo Raimundo Felipe, tenho 20 anos, cidade natal Cajari/MA. Concluí o ensi
 
 </p>
 
-![snake gif](https://github.com/raimundofelipe-dev/raimundofelipe-dev/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/raimundofelipe-dev/<nome-do-repositorio>/output/snake.svg" alt="Snake animation" />
+
