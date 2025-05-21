@@ -4,7 +4,7 @@
 </h1>
 
 <div  align="center" >
-  - 🔭 Desenvolvedor Web
+  -  💻 Desenvolvedor Web
   <br>
 - 🌱 Atualmente estou trabalhando com PHP, Js  ...
 </div>
