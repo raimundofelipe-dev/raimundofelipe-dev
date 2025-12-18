@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Olá! Eu sou o Raimundo Felipe 👋</h1>
 
 <h3 align="center">
@@ -80,6 +79,20 @@ Valorizo trabalho em equipe, comunicação clara e boas práticas de desenvolvim
     src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" 
     width="90%" 
     style="border-radius: 12px" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
+    width="120" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/assets/terminal.gif" 
+    width="80%" 
   />
 </p>
 
