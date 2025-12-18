@@ -7,6 +7,8 @@
 
 ![Raimundo GitHub stats](https://github-readme-stats.vercel.app/api?username=raimundofelipe-dev&show_icons=true&theme=onedark)
 
+---
+
 ## Tecnologias que uso no meu dia.
 
 <div style="display: inline_block"><br/>
@@ -18,12 +20,27 @@
     <img align="center" alt="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img align="center" alt="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+
+---
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raimundofelipe-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-## Email para contato:
-- [rdfelipedev@gmail.com](https://rdfelipedev@gmail.com/)
+---
+
+## 📫 Email para contato:
+<p>
+  <a href="mailto:seuemail@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+
+
+
+
 
