@@ -85,24 +85,24 @@ Valorizo trabalho em equipe, comunicação clara e aprendizado contínuo.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Estatísticas gerais -->
   <img 
     height="170em" 
     src="https://github-readme-stats.vercel.app/api?username=raimundofelipe-dev&show_icons=true&theme=onedark&hide_border=true" 
   />
-
-  <!-- Linguagens mais usadas -->
   <img 
     height="170em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundofelipe-dev&layout=compact&theme=onedark&hide_border=true" 
   />
+</div>
 
-  <!-- Atividade (mais profissional que streak) -->
+<br/>
+
+<!-- Card inferior -->
+<div align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=raimundofelipe-dev&theme=github-compact&hide_border=true" 
   />
 </div>
-
 ---
 
 ## 🛠️ Tecnologias
