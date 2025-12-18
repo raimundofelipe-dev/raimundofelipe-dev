@@ -1,39 +1,26 @@
-<h1>Olá! Eu sou o Raimundo Felipe.<h1> 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+Sejam+bem+vindos!;&color=FF0000" />
-</h1>
 
-<div  align="center" >
-  -  💻 Desenvolvedor Web
-  <br>
--  Atualmente estou trabalhando com PHP, Js  ...
-</div>
+### Olá! Eu sou o Raimundo Felipe ✌️
 
-<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
-<br>
-<div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,php,bootstrap,html,css,vscode,github,git" />
-</div>
+![Raimundo GitHub stats](https://github-readme-stats.vercel.app/api?username=raimundofelipe-dev&show_icons=true&theme=onedark)
 
-<h2 align="center" >⚡**Desenvolvedor Back-end**⚡</h2>
-<br>
-<div align="center" >
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=raimundofelipe-dev&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=raimundofelipe-dev&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=raimundofelipe-dev&show_icons=true" />
-</picture>
+## Tecnologias que uso no meu dia.
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img align="center" alt="" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img align="center" alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img align="center" alt="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 <br>
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;&color=FF0000" />
-</h1>
 
-<img src="https://raw.githubusercontent.com/raimundofelipe-dev/raimundofelipe-dev/output/snake.svg" alt="Snake animation &color=FF0000" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raimundofelipe-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+## Email para contato:
+- [rdfelipedev@gmail.com](https://rdfelipedev@gmail.com/)
+
 
