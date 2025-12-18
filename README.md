@@ -10,7 +10,7 @@
 ![Raimundo GitHub stats](https://github-readme-stats.vercel.app/api?username=raimundofelipe-dev&show_icons=true&theme=onedark)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raimundofelipe-dev&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raimundofelipe-dev&show_icons=true&theme=onedark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundofelipe-dev&layout=compact&theme=radical" />
 </div>
 
