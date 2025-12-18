@@ -12,15 +12,15 @@
 ---
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=raimundofelipe-dev&show_icons=true&theme=onedark" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundofelipe-dev&layout=compact&theme=onedark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raimundofelipe-dev&show_icons=true&theme=onedark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundofelipe-dev&layout=compact&theme=onedark" />
 </div>
 
 ---
 
 ## 🛠️ Tecnologias que uso no dia a dia
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
     <img align="center" alt="" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img align="center" alt="" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
     <img align="center" alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -39,6 +39,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 ---
 
 ## 📫 Email para contato:
+
 <p>
   <a href="mailto:seuemail@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
