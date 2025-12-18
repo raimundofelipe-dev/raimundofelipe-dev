@@ -76,13 +76,6 @@ Valorizo trabalho em equipe, comunicação clara e boas práticas de desenvolvim
 
 <p align="center">
   <img 
-    src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" 
-    width="90%" 
-    style="border-radius: 12px" 
-  />
-</p>
-<p align="center">
-  <img 
     src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
     width="80%" 
   />
