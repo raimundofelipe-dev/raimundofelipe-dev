@@ -81,7 +81,17 @@ Valorizo trabalho em equipe, comunicação clara e boas práticas de desenvolvim
     style="border-radius: 12px" 
   />
 </p>
-
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
+    width="80%" 
+  />
+</p>
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&text=PHP%20%7C%20Laravel%20Backend&fontColor=ffffff&fontSize=24" 
+  />
+</p>
 
 
 
