@@ -84,8 +84,10 @@ Valorizo trabalho em equipe, comunicação clara e boas práticas de desenvolvim
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=footer&text=Backend%20Developer%20%7C%20PHP%20%26%20Laravel&fontColor=ffffff&fontSize=20" 
+    src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/assets/terminal.gif" 
+    width="80%" 
   />
 </p>
+
 
 
