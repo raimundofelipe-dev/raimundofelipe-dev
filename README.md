@@ -82,4 +82,10 @@ Valorizo trabalho em equipe, comunicação clara e boas práticas de desenvolvim
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
+    width="120" 
+  />
+</p>
 
