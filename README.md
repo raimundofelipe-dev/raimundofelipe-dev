@@ -12,7 +12,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raimundofelipe-dev&show_icons=true&theme=radical&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundofelipe-dev&layout=compact&theme=radical" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=raimundofelipe-dev&theme=radical" />
 </div>
 
 ---
