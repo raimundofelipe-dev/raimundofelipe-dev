@@ -1,6 +1,10 @@
 
 ### Olá! Eu sou o Raimundo Felipe ✌️
 
+[![Linkedin](https://www.linkedin.com/in/raimundo-felipe-818bb034b/)
+[![WhatsApp](https://web.whatsapp.com/)
+[![Instagram](https://www.instagram.com/felipemndnc/)
+
 ![Raimundo GitHub stats](https://github-readme-stats.vercel.app/api?username=raimundofelipe-dev&show_icons=true&theme=onedark)
 
 ## Tecnologias que uso no meu dia.
@@ -22,5 +26,6 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ## Email para contato:
 - [rdfelipedev@gmail.com](https://rdfelipedev@gmail.com/)
+
 
 
