@@ -1,6 +1,10 @@
 
 ### Olá! Eu sou o Raimundo Felipe ✌️
 
+<h3>
+  💻 <strong>Desenvolvedor de Software</strong> — PHP | Laravel | Docker | JavaScript | Bootstrap | MySQL
+</h3>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raimundo-felipe-818bb034b/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipemndnc/)
@@ -10,12 +14,11 @@
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=raimundofelipe-dev&show_icons=true&theme=onedark" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundofelipe-dev&layout=compact&theme=onedark" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=raimundofelipe-dev&theme=onedark" />
 </div>
 
 ---
 
-## Tecnologias que uso no meu dia.
+## 🛠️ Tecnologias que uso no dia a dia
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
