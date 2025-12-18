@@ -1,3 +1,4 @@
+
 <h1 >
   Olá! Eu sou o Raimundo Felipe ✌️✋
 </h1>
@@ -32,7 +33,7 @@
 </div>
 
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+<p>Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.</p>
 
 ---
 
@@ -52,16 +53,9 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 //
 
-<h1 >
-  Olá! Eu sou o Gabriel Coimbra ✋
-</h1>
-
-<h3>
-  💻 <strong>Desenvolvedor de Software</strong> — PHP | Laravel | Docker | JavaScript | React | VueJS | Tailwind | Bootstrap | MySQL
-</h3>
 
 
----
+
 
 <table width="100%"">
   <tr>
