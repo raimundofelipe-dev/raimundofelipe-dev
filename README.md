@@ -65,5 +65,7 @@ Valorizo trabalho em equipe, comunicação clara e aprendizado contínuo.
 </p>
 
 
-
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=raimundofelipe-dev&theme=github-compact&hide_border=true" 
+/>
 
