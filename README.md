@@ -66,11 +66,8 @@ Valorizo trabalho em equipe, comunicação clara e boas práticas de desenvolvim
 
 ## 📫 Contato
 
-<p align="center">
-  <a href="mailto:contato.raimundofelipe@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+📧 **Email:** contato.rdfelipedev@gmail.com  
+💼 **LinkedIn:** [Raimundo Felipe](https://www.linkedin.com/in/raimundo-felipe-818bb034b/)
 
 ---
 
