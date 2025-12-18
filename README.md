@@ -19,7 +19,7 @@
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=raimundofelipe-dev&show_icons=true&theme=onedark&hide_border=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundofelipe-dev&layout=compact&theme=onedark&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=raimundofelipe-dev&theme=onedark&hide_border=true" />
+ <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=raimundofelipe-dev&theme=onedark&hide_border=true" />
 </div>
 
 ---
