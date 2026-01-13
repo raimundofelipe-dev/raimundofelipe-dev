@@ -58,7 +58,7 @@ Valorizo trabalho em equipe, comunicação clara e boas práticas de desenvolvim
   <img
     src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
     alt="Animação profissional de desenvolvimento backend"
-    width="80%"
+    width="85%"
   />
 </p>
 <p align="center">
@@ -68,13 +68,7 @@ Valorizo trabalho em equipe, comunicação clara e boas práticas de desenvolvim
 </p>
 
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ashutosh1919/ashutosh1919/master/code.gif"
-    alt="Backend programming animation"
-    width="60%"
-  />
-</p>
+
 
 
 
