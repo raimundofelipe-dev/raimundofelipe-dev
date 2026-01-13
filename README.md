@@ -66,3 +66,6 @@ Valorizo trabalho em equipe, comunicação clara e boas práticas de desenvolvim
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&text=PHP%20%7C%20Laravel%20Backend&fontColor=ffffff&fontSize=24"
   />
 </p>
+<img src="LINK_DO_GIF" alt="Backend development coding animation" />
+<img src="LINK_DO_GIF" alt="Animação profissional de programação backend" />
+
