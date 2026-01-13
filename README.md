@@ -16,11 +16,13 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raimundofelipe-dev&show_icons=true&rank_icon=github&theme=onedark&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api?username=raimundofelipe-dev&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raimundofelipe-dev&layout=compact&theme=onedark&hide_border=true&cache_seconds=1800)
+![Top Langs](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/top-langs/?username=raimundofelipe-dev&layout=compact&theme=dark)
+
 
 ---
 
