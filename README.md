@@ -1,5 +1,5 @@
 
-<h1>Olá! Eu sou o Raimundo Felipe </h1>
+<h1>Olá! Eu sou o Raimundo Felipe 👋 </h1>
 
 <h3 align="center">
 💻 Desenvolvedor de Software | PHP • Laravel • Docker • JavaScript • MySQL
