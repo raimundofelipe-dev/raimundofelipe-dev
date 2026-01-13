@@ -66,22 +66,17 @@ Valorizo trabalho em equipe, comunicação clara e boas práticas de desenvolvim
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&text=PHP%20%7C%20Laravel%20Backend&fontColor=ffffff&fontSize=24"
   />
 </p>
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
-    alt="Backend development animation"
-    width="70%"
+    width="45%"
   />
-</p>
-
-<p align="center">
   <img
     src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/terminal.gif"
-    alt="Terminal programming animation"
-    width="70%"
+    width="45%"
   />
 </p>
-
 
 
 
