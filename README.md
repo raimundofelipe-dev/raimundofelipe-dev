@@ -4,7 +4,7 @@
 <h3 align="center">
 💻 Desenvolvedor de Software | PHP • Laravel • Docker • JavaScript • MySQL
 </h3>
-/*
+<!--
 <p align="center">
   <a href="https://www.linkedin.com/in/raimundo-felipe-818bb034b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-/*
+--!>
 
 ## 📈 Activity Graph
 
