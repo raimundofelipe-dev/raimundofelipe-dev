@@ -67,19 +67,7 @@ Valorizo trabalho em equipe, comunicação clara e boas práticas de desenvolvim
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/muhammadfaizanhaider/muhammadfaizanhaider/main/developer.gif"
-    width="70%"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/terminal.gif"
-    width="70%"
-  />
-</p>
 
 
 
