@@ -14,7 +14,6 @@
   </a>
 </p>
 
----
 
 ## 📈 Activity Graph
 
