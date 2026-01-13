@@ -18,25 +18,16 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=raimundofelipe-dev&show_icons=true&theme=onedark&hide_border=true" 
-  />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundofelipe-dev&layout=compact&theme=onedark&hide_border=true" 
-  />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raimundofelipe-dev&show_icons=true&rank_icon=github&theme=onedark&hide_border=true&cache_seconds=1800)
 
-<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raimundofelipe-dev&layout=compact&theme=onedark&hide_border=true&cache_seconds=1800)
 
-<!-- Card inferior -->
-<div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=raimundofelipe-dev&theme=github-compact&hide_border=true" 
-  />
-</div>
+---
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raimundofelipe-dev&theme=github-compact&hide_border=true)
+
 ---
 
 ## 🛠️ Tecnologias
@@ -56,7 +47,8 @@
 
 Sou desenvolvedor de software com foco em **backend**, apaixonado por tecnologia, educação e por criar soluções que gerem impacto real.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** e busco evolução constante, tanto técnica quanto profissional.  
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e busco evolução constante, tanto técnica quanto profissional.
+
 Valorizo trabalho em equipe, comunicação clara e boas práticas de desenvolvimento.
 
 📍 Brasil — Maranhão  
@@ -72,16 +64,16 @@ Valorizo trabalho em equipe, comunicação clara e boas práticas de desenvolvim
 ---
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
-    width="80%" 
-  />
-</p>
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&text=PHP%20%7C%20Laravel%20Backend&fontColor=ffffff&fontSize=24" 
+  <img
+    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+    width="80%"
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&text=PHP%20%7C%20Laravel%20Backend&fontColor=ffffff&fontSize=24"
+  />
+</p>
 
 
