@@ -19,9 +19,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api?username=raimundofelipe-dev&show_icons=true&theme=dark)
 
-![Top Langs](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/top-langs/?username=raimundofelipe-dev&layout=compact&theme=dark)
+![GitHub Stats](./github-stats.svg)
+
+![Top Langs](./top-langs.svg)
 
 
 ---
