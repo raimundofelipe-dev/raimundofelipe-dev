@@ -68,6 +68,13 @@ Valorizo trabalho em equipe, comunicação clara e boas práticas de desenvolvim
 </p>
 
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ashutosh1919/ashutosh1919/master/code.gif"
+    alt="Backend programming animation"
+    width="60%"
+  />
+</p>
 
 
 
