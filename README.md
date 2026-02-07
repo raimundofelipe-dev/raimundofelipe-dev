@@ -5,19 +5,6 @@
 💻 Desenvolvedor de Software | PHP • Laravel • Docker • JavaScript • MySQL
 </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/raimundo-felipe-818bb034b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/felipemndnc/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raimundofelipe-dev&theme=github-compact&hide_border=true)
 
 
 ## 🛠️ Tecnologias
