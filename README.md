@@ -1,5 +1,7 @@
 # 👩🏻‍💻 Raimundo Felipe 
 
+**`Desenvolvedora FullStack`**
+
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
