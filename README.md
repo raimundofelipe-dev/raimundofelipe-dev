@@ -1,5 +1,4 @@
-# 👩🏻‍💻 Eu sou o Raimundo Felipe 👋 
-
+# 👩🏻‍💻 Raimundo Felipe 
 
 ### 🤖 Linguagens e Tecnologias
 <img 
