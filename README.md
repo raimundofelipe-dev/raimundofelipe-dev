@@ -1,13 +1,7 @@
-
-<h1>Olá! Eu sou o Raimundo Felipe 👋 </h1>
-
-<h3 align="center">
-💻 Desenvolvedor de Software | PHP • Laravel • Docker • JavaScript • MySQL
-</h3>
+# 👩🏻‍💻 Eu sou o Raimundo Felipe 👋 
 
 
-
-## 🤖  Tecnologias
+### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
     alt="HTML"
