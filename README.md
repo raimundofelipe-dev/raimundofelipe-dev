@@ -8,7 +8,6 @@
 
 
 ## 🤖  Tecnologias
-
 <img 
     align="left" 
     alt="HTML"
