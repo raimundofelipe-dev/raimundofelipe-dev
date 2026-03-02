@@ -24,6 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45"/>
 </p>
 
+
 ## 🚀 Sobre mim
 
 Sou desenvolvedor de software com foco em **backend**, apaixonado por tecnologia, educação e por criar soluções que gerem impacto real.
