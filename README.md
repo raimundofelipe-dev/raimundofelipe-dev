@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Raimundo Felipe 
 
-**`Desenvolvedora Backend`**
+**`Desenvolvedor Backend`**
 
 ### 🤖 Linguagens e Tecnologias
 
