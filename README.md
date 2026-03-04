@@ -52,12 +52,6 @@ Valorizo trabalho em equipe, comunicação clara e boas práticas de desenvolvim
 </p>
 
 
-**`Desenvolvedora FullStack`**
-
-
-
-### 🤖 Linguagens e Tecnologias
-
 
 
 
